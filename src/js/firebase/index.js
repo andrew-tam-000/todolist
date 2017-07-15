@@ -18,6 +18,8 @@ export default firebaseApp;
 
 SCHEMA
 
+No arrays -- use 'index' key as part of the object
+
 - users
     [id] [string|number]
         - id [string|number]
