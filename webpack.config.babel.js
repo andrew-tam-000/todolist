@@ -38,6 +38,7 @@ export default {
         compress: true,
         port: 9000
     },
+    devtool: 'source-map',
     plugins: [
         new DashboardPlugin(),
         new HtmlWebpackPlugin({
